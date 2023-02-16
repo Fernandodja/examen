@@ -1,0 +1,21 @@
+.cuadros{
+    width: 1000px; 
+    height: 130px; 
+    margin: auto;
+    padding-top: 40px;
+}
+
+.rectangulos{
+    background-color: beige; 
+    width: 200px; 
+    height: 90px; 
+    border-radius: 20px; 
+    margin-top: 0%;
+}
+
+.circulos{
+    background-color: rgb(229, 255, 0);
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+}
